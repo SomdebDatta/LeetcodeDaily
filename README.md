@@ -4,7 +4,7 @@ This repository contains solutions to various LeetCode problems. Below are detai
 
 ## Minimum Deletions to Make String K-Special
 
-**File:** `Minimum Deletions to make string k-special.py`
+**File:** `minimum-deletions-to-make-string-k-special.py`
 
 This solution addresses the problem of making a string k-special through character deletions. A string is considered k-special when the difference between the frequencies of any two characters is at most k. The algorithm:
 
